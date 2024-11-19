@@ -1,0 +1,12 @@
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\bin\Release\Net.Business.DTO.dll
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\bin\Release\Net.Business.DTO.pdb
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.csproj.AssemblyReference.cache
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.csproj.CoreCompileInputs.cache
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.dll
+C:\Fibrafil\Desarrollo\FIBRAFIL\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.pdb
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\bin\Release\Net.Business.DTO.dll
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\bin\Release\Net.Business.DTO.pdb
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.csproj.AssemblyReference.cache
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.csproj.CoreCompileInputs.cache
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.dll
+C:\Fibrafil\Desarrollo\Fibrafil\Servicios\Billing\Net.Business.DTO\obj\Release\Net.Business.DTO.pdb
