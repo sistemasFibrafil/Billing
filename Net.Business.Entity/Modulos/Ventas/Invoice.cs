@@ -66,9 +66,9 @@ namespace Net.Business.Entity
         public string tabla_personalizada_codigo { get; set; }
         public string formato_de_pdf { get; set; }
 
-        public List<ItemsFacturas> items { get; set; }
-        public List<Guias> guias { get; set; }
-        public List<Venta_al_credito> venta_al_credito { get; set; }
+        public List<ItemsFacturas> items { get; set; } = new List<ItemsFacturas>();
+        public List<Guias> guias { get; set; } = new List<Guias>();
+        public List<Venta_al_credito> venta_al_credito { get; set; } = new List<Venta_al_credito>();
     }
     public class ItemsFacturas
     {
